@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TomasHejzlar
+- 👀 I’m interested in Python, C#, CSS, HTML
+- 🌱 I’m currently learning C#, CSS, HTML
+- 💞️ I’m looking to collaborate on videogames
+- 📫 How to reach me: discord: eltomos
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: In need of Copilot because I want to upgrade my learning
